@@ -2,5 +2,5 @@
 deployment:
   tasks:
   - export DEPLOYPATH=/home/nathanb1/public_html/
-  - /bin/cp index.html $DEPLOYPATH
-  - /bin/cp style.css $DEPLOYPATH
+  - /bin/ index.html $DEPLOYPATH
+  - /bin/ style.css $DEPLOYPATH
